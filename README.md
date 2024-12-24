@@ -80,3 +80,10 @@ The program will display the following menu:
 #### 4️⃣ **Exit**
 - **Task**:  
   End the program. 👋
+
+
+#### **Preview of the result**
+
+https://github.com/user-attachments/assets/7681d81c-6a6c-495f-9cd0-f1aab2da2921
+
+
